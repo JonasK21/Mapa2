@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trasa Brno - Praha",
+        "description": "Hlavní trasa mezi Brnem a Prahou",
+        "color": "blue",
+        "weight": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [16.6068, 49.1951],
+          [14.4208, 50.088]
+        ]
+      }
+    }
+  ]
+}
